@@ -15,6 +15,6 @@ public class swaggerconfig {
                 // You need to change the port as per your server
                 .servers(List.of(
                         new Server().url("https://9200.408procr.amypo.ai/")
-                ));i
+                ));
         }
 }
